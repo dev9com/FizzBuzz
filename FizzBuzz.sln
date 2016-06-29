@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Tests", "FizzBuzz.Tests\FizzBuzz.Tests.csproj", "{8AEDA618-8DB6-4383-9E6B-6029979B49DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Tests.MSTest", "FizzBuzz.Tests.MSTest\FizzBuzz.Tests.MSTest.csproj", "{92E2ED9B-368E-46C7-80D9-D5C705A82782}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{8AEDA618-8DB6-4383-9E6B-6029979B49DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AEDA618-8DB6-4383-9E6B-6029979B49DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AEDA618-8DB6-4383-9E6B-6029979B49DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E2ED9B-368E-46C7-80D9-D5C705A82782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E2ED9B-368E-46C7-80D9-D5C705A82782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E2ED9B-368E-46C7-80D9-D5C705A82782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E2ED9B-368E-46C7-80D9-D5C705A82782}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
